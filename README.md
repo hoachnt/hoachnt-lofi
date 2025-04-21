@@ -26,7 +26,7 @@ bun dev
 
 #### Add Songs
 
-Put your songs in the `./public` folder, and run `pnpm run generate:music` to sync songs data with web player.
+Put your songs in the `./public` folder, and run `bun run generate:music` to sync songs data with web player.
 
 #### Build
 
