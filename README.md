@@ -15,13 +15,13 @@ git clone https://github.com/hoachnt/hoachnt-lofi.git
 Install with [pnpm](https://pnpm.io).
 
 ```bash
-pnpm i
+bun i
 ```
 
 Run in development mode.
 
 ```bash
-pnpm dev
+bun dev
 ```
 
 #### Add Songs
@@ -33,7 +33,7 @@ Put your songs in the `./public` folder, and run `pnpm run generate:music` to sy
 This project uses Vite and React.js.
 
 ```bash
-pnpm build && pnpm preview
+bun build && bun preview
 ```
 
 ### Custom Songs
