@@ -15,7 +15,7 @@ git clone https://github.com/hoachnt/hoachnt-lofi.git
 Install with [pnpm](https://pnpm.io).
 
 ```bash
-bun i
+bun install
 ```
 
 Run in development mode.
