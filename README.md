@@ -9,7 +9,7 @@ Inspired by https://github.com/fuma-nama/fuma-lofi
 Clone the repository.
 
 ```bash
-git clone https://github.com/fuma-nama/fuma-lofi.git
+git clone https://github.com/fuma-nama/hoachnt-lofi.git
 ```
 
 Install with [pnpm](https://pnpm.io).
