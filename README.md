@@ -1,8 +1,6 @@
-## Fuma Lofi
+## Hoachnt Lofi
 
-Some nice lofi music and a music player.
-
-**Demo:** https://fuma-lofi.vercel.app
+Inspired by https://github.com/fuma-nama/fuma-lofi
 
 ![Preview](./public/preview.png)
 
