@@ -33,7 +33,7 @@ Put your songs in the `./public` folder, and run `bun run generate:music` to syn
 This project uses Vite and React.js.
 
 ```bash
-bun build && bun preview
+bun run build && bun run preview
 ```
 
 ### Custom Songs
